@@ -13,6 +13,14 @@ All this marketing of products like "Visual Analytics" instead of simple tables 
 does a disservice to information communication. The classic editor has the best
 ascii graphics editor.
 
+see my attempt at color ascii dashboard
+https://tinyurl.com/y7f29k8q
+https://github.com/rogerjdeangelis/utl_create_your_own_dashboard_using_classic_base_sas/blob/master/utl_create_your_own_dashboard_using_classic_base_sas_button_1.png
+
+WOW on github (link by Phil Rack)
+https://github.com/yaronn/blessed-contrib
+
+
 
 SOAPBOX ON
 

@@ -10,7 +10,7 @@ My Quote
 "A well designed table and ascii graphic conveys more information then many fancy graphics"
 
 All this marketing of products like "Visual Analytics" instead of simple tables and ascii graphics
-does a disservice to information communication. the classic editor has the best
+does a disservice to information communication. The classic editor has the best
 ascii graphics editor.
 
 
@@ -26,6 +26,12 @@ SAS is not alone in doing this.
 
 SOAPBOX OFF
 
+see my attempt at color ascii dashboard
+https://tinyurl.com/y7f29k8q
+https://github.com/rogerjdeangelis/utl_create_your_own_dashboard_using_classic_base_sas/blob/master/utl_create_your_own_dashboard_using_classic_base_sas_button_1.png
+
+WOW on github (link by Phil Rack)
+https://github.com/yaronn/blessed-contrib
 
 
 Which is more meaningful, a video of a Santa icon moving from state to state or this table.
